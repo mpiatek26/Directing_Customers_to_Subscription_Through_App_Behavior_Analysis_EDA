@@ -1,1 +1,1 @@
-# Directing_Customers_to_Subscription_Through_App_Behavior_Analysis_EDA
+# Directing_Customers_to_Subscription_Through_App_Behavior_Analysis_EDA/Model
